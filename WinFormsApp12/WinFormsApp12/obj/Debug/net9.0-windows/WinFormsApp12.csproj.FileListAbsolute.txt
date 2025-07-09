@@ -1,0 +1,16 @@
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp9.Form1.resources
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp12.csproj.GenerateResource.cache
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp12.AssemblyInfoInputs.cache
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp12.AssemblyInfo.cs
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net9.0-windows\WinFormsApp12.exe
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net9.0-windows\WinFormsApp12.deps.json
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net9.0-windows\WinFormsApp12.runtimeconfig.json
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net9.0-windows\WinFormsApp12.dll
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net9.0-windows\WinFormsApp12.pdb
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp12.dll
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\refint\WinFormsApp12.dll
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp12.pdb
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\WinFormsApp12.genruntimeconfig.cache
+C:\Users\synzt\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net9.0-windows\ref\WinFormsApp12.dll
